@@ -1,3 +1,2 @@
 # SpringBoard-Assignments
-Assignments from Springboard
-These are assignments I've submitted to the Springboard DS Career Track course.
+An analysis of the average increase in home values across London boroughs from 1998 - 2018.
